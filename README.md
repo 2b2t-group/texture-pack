@@ -1,6 +1,6 @@
 # 2b2t.Group Texture Pack
 
-###### This is a pack of Minecraft textures collected 2b2t.group for use on 2b2t. This project started when our members decided it would be cool to all share similar textures.
+###### This is a pack of Minecraft textures collected by 2b2t.group for use on 2b2t. This project started when our members decided it would be cool to all share similar textures.
 
 ## Installation
 - Click the green code button > Download Zip
