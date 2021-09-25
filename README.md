@@ -3,10 +3,11 @@
 ###### This is a pack of Minecraft textures collected by 2b2t.group for use on 2b2t. This project started when our members decided it would be cool to all share similar textures.
 
 ## Installation
+- Make sure you have optifined installed. Also enable connected and animated textures within Minecraft.
 - Click the green code button > Download Zip
 - Unzip the folder then put it in your resource packs folder like any other texture pack. (/home/user/.minecraft/resourcepacks/)
-
-Some textures are already in the assets folder, but there are many more in the addons folder you can add by dropping in.
+- Open the addons folder and unzip any textures you like into the assets folder
+You should then be done! If you have any problems, you can ask in https://discord.gg/5wt7fhrjfw.
 
 ## Pictures
 WIP
