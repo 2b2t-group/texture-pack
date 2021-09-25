@@ -1,0 +1,1 @@
+drag the minecraft folder from the addon you want into assets folder

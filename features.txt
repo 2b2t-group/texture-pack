@@ -1,0 +1,17 @@
+{
+   "features":[
+      "2b2t.Group Splash text (WIP)",
+      "3D End Crystals",
+      "Addons",
+      "Alpha slab viewer",
+      "Bed edits (WIP)",
+      "Dramatic Skys",
+      "Joined bedrock and obsidian textures for cpvp and highways",
+      "Lots of custom sounds (dig, totem, explode, etc)",
+      "Lots of new item textures - mostly tools",
+      "Rainbow Armour models",
+      "Rainbow GUIs and HUD",
+      "Some improved block textures",
+      "Animated totems, (5 skins rn)"
+   ]
+}
